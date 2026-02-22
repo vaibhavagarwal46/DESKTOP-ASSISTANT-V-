@@ -1,0 +1,13 @@
+customtkinter
+pillow
+pyttsx3
+speechrecognition
+google-generativeai
+psutil
+requests
+python-dotenv
+wikipedia
+pywhatkit
+pycaw
+screen-brightness-control
+comtypes
